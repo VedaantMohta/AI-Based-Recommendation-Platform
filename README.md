@@ -95,12 +95,3 @@ To get started with RecoHub, follow these steps:
 4. Access the application:
    - Open your browser and go to `http://localhost:3000` for the frontend.
    - The backend API will be available at `http://localhost:8000`.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
