@@ -1,6 +1,6 @@
-# RecoHub
+# AI-Based Recommendation Platform
 
-RecoHub is a media recommendation application that allows users to discover and manage various media types such as movies, books, and games. The application is built using FastAPI for the backend and React for the frontend, providing a seamless user experience.
+The AI-Based Recommendation Platform is a media recommendation application that allows users to discover and manage various media types such as movies, books, and games. The application is built using FastAPI for the backend and React for the frontend, providing a seamless user experience.
 
 ## Project Structure
 
@@ -101,5 +101,6 @@ To get started with RecoHub, follow these steps:
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## License
+
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
